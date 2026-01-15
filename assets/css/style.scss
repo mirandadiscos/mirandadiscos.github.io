@@ -1,10 +1,10 @@
 ---
 ---
 
-/* Importa o CSS base do tema */
+/* Importa o CSS base do tema Jekyll */
 @import "{{ site.theme }}";
 
-/* Solarized Dark palette */
+/* Solarized Light palette */
 :root {
   --base03: #002b36;
   --base02: #073642;
@@ -14,6 +14,7 @@
   --base1:  #93a1a1;
   --base2:  #eee8d5;
   --base3:  #fdf6e3;
+
   --yellow: #b58900;
   --orange: #cb4b16;
   --red:    #dc322f;
@@ -24,41 +25,53 @@
   --green:  #859900;
 }
 
-/* Background & text */
+/* Base layout */
 body {
-  background-color: var(--base3);
-  color: var(--base00);
+  background-color: var(--base3) !important;
+  color: var(--base00) !important;
+  line-height: 1.6;
 }
 
 /* Headers */
-h1, h2, h3, h4 {
-  color: var(--base01);
+h1, h2, h3, h4, h5 {
+  color: var(--base01) !important;
+  font-weight: 600;
 }
 
 /* Links */
 a {
-  color: var(--blue);
+  color: var(--blue) !important;
+  text-decoration: none;
 }
 a:hover {
-  color: var(--cyan);
+  color: var(--cyan) !important;
+  text-decoration: underline;
 }
 
 /* Code blocks */
 pre, code {
-  background-color: var(--base2);
-  color: var(--base01);
+  background-color: var(--base2) !important;
+  color: var(--base01) !important;
+  border-radius: 6px;
+}
+
+/* Inline code spacing */
+code {
+  padding: 0.15em 0.35em;
 }
 
 /* Blockquotes */
 blockquote {
-  border-left: 4px solid var(--cyan);
-  color: var(--base1);
+  border-left: 4px solid var(--cyan) !important;
+  color: var(--base01) !important;
+  background-color: rgba(238, 232, 213, 0.4);
 }
 
-/* Horizontal rule */
+/* Horizontal rules */
 hr {
   border: 0;
-  border-top: 1px solid var(--base01);
+  border-top: 1px solid var(--base1);
+  margin: 2em 0;
 }
 
 /* Lists */
@@ -66,3 +79,14 @@ li {
   margin-bottom: 0.4em;
 }
 
+/* Tables (se usar) */
+table {
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid var(--base1);
+  padding: 0.5em;
+}
+th {
+  background-color: var(--base2);
+}
