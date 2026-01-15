@@ -19,7 +19,7 @@ Backend Engineer with over 10 years of experience in software development and co
 **Messaging & Streaming:** Apache Kafka, Apache Avro  
 **APIs & Docs:** REST APIs, OpenAPI, Swagger  
 **Observability & Ops:** Grafana, Logging, Linux  
-**Databases:** SQL, DynamoDB  
+**Databases:** PostGreSQL, DynamoDB  
 
 ---
 
