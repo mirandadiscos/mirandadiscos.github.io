@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Victor Guedes
 **Backend Engineer | Software Engineer | Ruby | Node.js | AWS**
 
