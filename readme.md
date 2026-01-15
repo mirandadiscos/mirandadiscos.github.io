@@ -4,8 +4,8 @@ Backend Engineer | Software Engineer
 Ruby · Node.js · AWS · Distributed Systems
 
 🌍 Remote — Brazil  
-📄 [Online Resume](https://seu-usuario.github.io)  
-💼 [LinkedIn](https://linkedin.com/in/seu-link)
+📄 [Online Resume](https://mirandadiscos.github.io)  
+💼 [LinkedIn](https://linkedin.com/in/vmguedes)
 
 ---
 
@@ -36,11 +36,10 @@ I focus on delivering **high-quality backend solutions** for critical, high-scal
 ---
 
 ## Resume & Contact
-- 🌐 **Website:** https://seu-usuario.github.io  
-- 📄 **Resume (PDF):** `/Victor_Guedes_CV.pdf`  
-- ✉️ **Email:** your.email@email.com  
+- 🌐 **Website:** https://mirandadiscos.github.io  
+- ✉️ **Email:** mirandaguedes.victor@gmail.com  
 
 ---
 
 ## Interests
-Backend engineering · Distributed systems · Ruby craftsmanship · Cloud architecture · Software quality
+Backend engineering · Distributed systems · Cloud architecture · Software quality
