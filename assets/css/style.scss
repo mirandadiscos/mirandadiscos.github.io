@@ -1,0 +1,26 @@
+---
+---
+
+// Solarized Light - Off-white/Café
+body {
+  background-color: #fdf6e3; // Aquele branco café Solarized
+  color: #657b83;
+}
+
+a {
+  color: #268bd2;
+}
+
+a:hover {
+  color: #2aa198;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #073642;
+}
+
+strong {
+  color: #073642;
+}
+
+@import "{{ site.theme }}";
