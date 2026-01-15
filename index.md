@@ -1,3 +1,8 @@
+---
+layout: home
+title: Victor Guedes
+---
+
 # Victor Guedes
 **Backend Engineer | Software Engineer | Ruby | Node.js | AWS**
 
