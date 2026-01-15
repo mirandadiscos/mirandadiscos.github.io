@@ -2,7 +2,7 @@
 **Backend Engineer | Software Engineer | Ruby | Node.js | AWS**
 
 📍 Brazil (Remote)  
-📧 your.email@email.com  
+📧 mirandaguedes.victor@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vmguedes) · [GitHub](https://github.com/mirandadiscos)
 
 ---
