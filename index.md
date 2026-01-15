@@ -18,7 +18,7 @@ Backend Engineer with over 10 years of experience in software development and co
 **Cloud & DevOps:** AWS, AWS Lambda, DynamoDB, Amazon SQS, API Gateway, Terraform (IaC), CI/CD  
 **Messaging & Streaming:** Apache Kafka, Apache Avro  
 **APIs & Docs:** REST APIs, OpenAPI, Swagger  
-**Observability & Ops:** Grafana, Logging, Tracing, Linux  
+**Observability & Ops:** Grafana, Logging, Linux  
 **Databases:** SQL, DynamoDB  
 
 ---
