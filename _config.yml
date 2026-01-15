@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: mattvh/solar-theme-jekyll
+plugins:
+  - jekyll-remote-theme
+
 title: Victor Guedes
 description: Backend Engineer | Ruby | Node.js
 show_downloads: false
