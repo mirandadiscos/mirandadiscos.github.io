@@ -69,3 +69,12 @@ Worked in the **diagnostic medicine** domain, focusing on reliable, secure, and 
 ## Languages
 Portuguese (Native) · English (Advanced)
 
+---
+
+## Projects
+
+### Cinema  
+**Repository:** [github.com/mirandadiscos/cinema](https://github.com/mirandadiscos/cinema)
+
+A system built on **unique URIs as first-class identifiers**, eliminating redundant processing by using URIs as canonical references. This approach reduces overhead, memory consumption, and latency while improving system efficiency and scalability.
+
